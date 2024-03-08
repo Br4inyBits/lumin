@@ -5,9 +5,9 @@ This project will utilize GSAP (GreenSock Animation Platform) and ScrollTrigger 
 
 ![App Screenshot](https://b.top4top.io/p_2989bt6fg1.png)
 
-**Tech:** GSAP
+**Tech :** `GSAP`
 
-**Deploy:** Vercel App
+**Deploy :** `Vercel App`
 
 
 [![site](https://img.shields.io/badge/view_site-000?style=for-the-badge&logo=codemagic&logoColor=C3E628)](https://lum1n.vercel.app/)
