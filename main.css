@@ -10,6 +10,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background: var(--color-accent);
+  color: #000;
+}
+
 ::-webkit-scrollbar {
   width: 5px;
 }
